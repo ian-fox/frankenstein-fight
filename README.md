@@ -1,4 +1,4 @@
-# ld31
+# Frankenstein Fight!
 
 Created for Ludum Dare 31, a weekend game jam, with art done by my friend Cal (Calahagus)
 
