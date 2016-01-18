@@ -1,0 +1,15 @@
+#container{
+    width: 800px;
+    height: 600px;
+    padding: 0;
+    margin: auto;
+}
+
+body{
+    background: black;
+}
+
+@font-face{
+    font-family: slkscr;
+    src: url(slkscr.ttf);
+}
